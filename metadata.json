@@ -1,0 +1,6 @@
+{
+  "name": "VoteHub - Your Voice Matters",
+  "description": "Official VoteHub platform for fair, secure, and transparent community elections and candidate voting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
